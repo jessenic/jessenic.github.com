@@ -1,4 +1,5 @@
-1.1.12.0
+1.1.13.0
 https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
 
-Fixed a crash when there are multiple cells with the same PCI
+- Primary cell is now on top
+- Fixed a crash when the app cannot get background permission
