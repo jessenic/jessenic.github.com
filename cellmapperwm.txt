@@ -1,2 +1,3 @@
-1.1.11
-http://murobbs.muropaketti.com/threads/cellmapping-cellmapper-client-windows-puhelimille-beta.1274567/
+1.1.12
+https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
+Fixed a crash when there are multiple cells with the same PCI
