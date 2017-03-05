@@ -1,5 +1,10 @@
-1.1.13.0
+1.2.15.0
 https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
 
-- Primary cell is now on top
-- Fixed a crash when the app cannot get background permission
+This is a big release, it adds live upload and a lot of small improvements.
+- Made cell list scrollable
+- Cell list now shows more user friendly information like frequencies and band numbers
+- Added toast notifications (Work in progress)
+- LTE-A reading on LTE-A phones, available in settings
+- Login and live upload!
+- Fixed few crashes and hangs
