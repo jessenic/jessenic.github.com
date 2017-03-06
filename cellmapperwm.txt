@@ -1,8 +1,13 @@
-1.2.16.0
+1.2.17.0
 https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
 
-This is a big release, it adds live upload and a lot of small improvements.
 Changelog:
+1.2.17.0:
+ - Added an option to keep the screen always on in settings
+ - Live Upload happens now every 3 seconds instead of every 10 seconds
+ - Live Upload is now compressed to use less data
+ - Fixed app being blank after closing & opening it with recording off
+ - Fixed app crash when High Contrast mode is enabled
 1.2.16.0:
  - Fixed a crash when upload is on without internet connectivity
  - Allow toggling notifications from settings
