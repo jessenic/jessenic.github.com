@@ -1,21 +1,20 @@
-1.2.17.0
+1.2.18.0
 https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
 
 Changelog:
+1.2.18.0:
+ - Fixes frequency bands not being saved when using Live Upload
+ - Check login status on app open
+ - Upload uses now less data
 1.2.17.0:
  - Added an option to keep the screen always on in settings
  - Live Upload happens now every 3 seconds instead of every 10 seconds
  - Live Upload is now compressed to use less data
  - Fixed app being blank after closing & opening it with recording off
  - Fixed app crash when High Contrast mode is enabled
-1.2.16.0:
- - Fixed a crash when upload is on without internet connectivity
- - Allow toggling notifications from settings
- - Live Upload progress bar
-1.2.15.0:
- - Made cell list scrollable
- - Cell list now shows more user friendly information like frequencies and band numbers
+Older:
  - Added toast notifications (Work in progress)
  - LTE-A reading on LTE-A phones, available in settings
  - Login and live upload!
- - Fixed few crashes and hangs
+ - Fixed crashes and hangs
+ - And more!
