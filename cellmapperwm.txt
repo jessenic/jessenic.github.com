@@ -1,7 +1,9 @@
-1.2.18.0
-https://rink.hockeyapp.net/apps/aac98b8e16774d64aeb5cf0e8818620a
+1.3.21.0
+https://forum.xda-developers.com/t/app-beta-cellmapper-for-windows-10-mobile.3504309/
 
 Changelog:
+1.3.21.0
+ - Fixes login
 1.2.18.0:
  - Fixes frequency bands not being saved when using Live Upload
  - Check login status on app open
